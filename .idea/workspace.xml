@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c73c506e-f582-46fe-935f-3928f85a8c63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eo8b9FSvrgLK3TyY7Z87sETk3k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.数据类型">
+    <configuration name="数据类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据类型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="数据类型转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据类型转换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="格式化输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/格式化输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="随机数和三目" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/随机数和三目.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="语句结构" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/语句结构.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="格式化输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/格式化输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="输入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/输入.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="语句结构if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/语句结构if.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.语句结构if" />
+        <item itemvalue="Python.数据类型" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c73c506e-f582-46fe-935f-3928f85a8c63" name="Default Changelist" comment="" />
+      <created>1594976653451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594976653451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595129556350">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="436" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.802@0.23.1440.802" timestamp="1595129556350" />
+    <state x="361" y="134" key="FileChooserDialogImpl" timestamp="1594977826753">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="361" y="134" key="FileChooserDialogImpl/0.23.1440.808@0.23.1440.808" timestamp="1594977826753" />
+    <state width="1269" height="304" key="GridCell.Tab.0.bottom" timestamp="1595821087821">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595072372626" />
+    <state width="1269" height="304" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1595821087821" />
+    <state width="1051" height="128" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1594978072482" />
+    <state width="1269" height="304" key="GridCell.Tab.0.center" timestamp="1595821087820">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595072372624" />
+    <state width="1269" height="304" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1595821087820" />
+    <state width="1051" height="128" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1594978072482" />
+    <state width="1269" height="304" key="GridCell.Tab.0.left" timestamp="1595821087819">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595072372623" />
+    <state width="1269" height="304" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1595821087819" />
+    <state width="1051" height="128" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1594978072481" />
+    <state width="1269" height="304" key="GridCell.Tab.0.right" timestamp="1595821087821">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595072372625" />
+    <state width="1269" height="304" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1595821087821" />
+    <state width="1051" height="128" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1594978072482" />
+    <state width="1269" height="242" key="GridCell.Tab.1.bottom" timestamp="1595818290717">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595072371387" />
+    <state width="1269" height="242" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1595818290717" />
+    <state width="1269" height="242" key="GridCell.Tab.1.center" timestamp="1595818290716">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1595072371386" />
+    <state width="1269" height="242" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1595818290716" />
+    <state width="1269" height="242" key="GridCell.Tab.1.left" timestamp="1595818290716">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1595072371385" />
+    <state width="1269" height="242" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1595818290716" />
+    <state width="1269" height="242" key="GridCell.Tab.1.right" timestamp="1595818290716">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1414" height="240" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595072371386" />
+    <state width="1269" height="242" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1595818290716" />
+    <state x="24" y="23" key="SettingsEditor" timestamp="1594977829268">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="184" y="108" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594977327149" />
+    <state x="24" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1594977829268" />
+    <state x="24" y="112" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1594977554446" />
+    <state x="362" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1596425933047">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="362" y="275" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1595057634330" />
+    <state x="362" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.802@0.23.1440.802" timestamp="1595839306865" />
+    <state x="362" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1596425933047" />
+    <state x="362" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1594976660518" />
+    <state x="229" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1595075161201">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="229" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.802@0.23.1440.802" timestamp="1595075161201" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/数据类型.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
